@@ -25,7 +25,7 @@ PROJECTS<br/>
 **Software Engineering Projects**</br>
 [Random Quote Generator](https://supratiktechandanalytics.github.io/Random_quote_machine/)
 
-[Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
+[Sorting Visualizer](https://supratiktechandanalytics.github.io/sortvisual.io/)
 
 [Path finder](https://supratiktechandanalytics.github.io/pathfinding.io/)
 
