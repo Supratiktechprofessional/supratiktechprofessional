@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently utilizing data insights for launching products to success. 
 
-- 💬 Ask me about **Product Management, React, Data Analytics and Data Engineering.**
+- 💬 Ask me about **Data Analytics and Frontend Engineering.**
 
 - 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
 
