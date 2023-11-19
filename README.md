@@ -27,7 +27,7 @@ PROJECTS<br/>
 
 [Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
 
-[Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
+[Path finder](https://supratiktechandanalytics.github.io/pathfinding.io/))
 
 [AI Chatbot](https://github.com/supratiksarkaremp22/ChatbotFullStack)
 
