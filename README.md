@@ -23,17 +23,15 @@ PROJECTS<br/>
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
 
 **Software Engineering Projects**</br>
-[AI Chatbot](https://github.com/supratiksarkaremp22/ChatbotFullStack)
-
-[Room Booking System](https://github.com/supratiksarkaremp22/Roombookingsystem)
-
-
-
-[Portfolio Website](https://supratiksarkaremp22.github.io/supratikstechportfolio/)
+[Random Quote Generator([https://supratiktechandanalytics.github.io/Random_quote_machine/])
 
 [Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
 
 [Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
+
+[AI Chatbot](https://github.com/supratiksarkaremp22/ChatbotFullStack)
+
+[Room Booking System](https://github.com/supratiksarkaremp22/Roombookingsystem)
 
 
 <p align="left">
