@@ -10,7 +10,7 @@ PROJECTS<br/>
 
 **Data Analytics and Engineering Projects**
 
-[Ecom Sales Dashboard in Excel](https://github.com/supratiktechandanalytics/esales/tree/main)
+[Ecom Sales Dashboard in Excel](https://github.com/supratiktechandanalytics/esales)
 
 [Hotel Booking Analysis](https://github.com/supratiktechandanalytics/Hotel-Booking-Analytics)
 
