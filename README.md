@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
 
-- 🔭 I’m currently utilizing data insights for launching products to success. 
-
-- 💬 Ask me about **Data Analytics and Frontend Engineering.**
+- 🔭 I’m skilled in deploying and managing data driven products and tech solutions. 
 
 - 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
 
