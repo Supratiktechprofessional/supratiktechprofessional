@@ -8,6 +8,8 @@ PROJECTS<br/>
 
 **Data Analytics and Engineering Projects**
 
+[Superstore Sales Report Dashboard](https://github.com/supratiktechandanalytics/Superstor_salesreport_dashboard)
+
 [Ecom Sales Dashboard in Excel](https://github.com/supratiktechandanalytics/esales)
 
 [Hotel Booking Analysis](https://github.com/supratiktechandanalytics/Hotel-Booking-Analytics)
