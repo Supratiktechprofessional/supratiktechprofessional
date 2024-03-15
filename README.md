@@ -29,6 +29,9 @@ PROJECTS<br/>
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
 
 **Software Engineering Projects**</br>
+
+[Ecommerce platform](https://github.com/supratiktechandanalytics/ShopingCart) 
+
 [Random Quote Generator](https://supratiktechandanalytics.github.io/Random_quote_machine/)
 
 [Sorting Visualizer](https://supratiktechandanalytics.github.io/sortvisual.io/)
