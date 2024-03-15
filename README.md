@@ -30,7 +30,7 @@ PROJECTS<br/>
 
 **Software Engineering Projects**</br>
 
-[Ecommerce platform](https://github.com/supratiktechandanalytics/ShopingCart) 
+[Ecommerce Terminal Application](https://github.com/supratiktechandanalytics/ShopingCart) 
 
 [Random Quote Generator](https://supratiktechandanalytics.github.io/Random_quote_machine/)
 
