@@ -8,8 +8,6 @@ PROJECTS<br/>
 
 **Data Analytics and Engineering Projects**
 
-[Room Booking System](https://github.com/supratiktechandanalytics/Roombookingsystem) 
-
 [Hospitality Sales Analysis](https://github.com/supratiktechandanalytics/Hospitality-Analytical-Dashboard)
 
 [Superstore Sales Report Dashboard](https://github.com/supratiktechandanalytics/Superstor_salesreport_dashboard)
@@ -31,6 +29,8 @@ PROJECTS<br/>
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
 
 **Software Engineering Projects**</br>
+
+[Room Booking System](https://github.com/supratiktechandanalytics/Roombookingsystem) 
 
 [Ecommerce Terminal Application](https://github.com/supratiktechandanalytics/ShopingCart) 
 
