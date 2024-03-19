@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
 
-- 🔭 I’m skilled in deploying and managing data driven products and tech solutions. 
+- 🔭 I’m skilled in programming frontend of webapps and deploying data driven tech solutions. 
 
 - 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
 
