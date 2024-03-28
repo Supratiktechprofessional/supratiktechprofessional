@@ -41,9 +41,6 @@ PROJECTS<br/>
 
 [AI Chatbot](https://github.com/supratiksarkaremp22/ChatbotFullStack)
 
-[Room Booking System](https://github.com/supratiksarkaremp22/Roombookingsystem)
-
-
 <p align="left">
 </p>
 
