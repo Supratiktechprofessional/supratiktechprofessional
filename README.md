@@ -5,7 +5,7 @@
 
 PROJECTS<br/>
 
-**Data Analytics and Engineering Projects**
+**Data Analytics Projects**
 
 [Hospitality Sales Analysis](https://github.com/supratiktechandanalytics/Hospitality-Analytical-Dashboard)
 
@@ -16,6 +16,8 @@ PROJECTS<br/>
 [Hotel Booking Analysis](https://github.com/supratiktechandanalytics/Hotel-Booking-Analytics)
 
 [Rental Realestate Database](https://github.com/supratiksarkaremp22/Real-Estate-Rental-Database/blob/main/rentalrealestate.sql)
+
+**Data Engineering Projects**
 
 [Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
 
