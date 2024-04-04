@@ -7,6 +7,8 @@ PROJECTS<br/>
 
 **Data Analytics Projects**
 
+[Financial Analysis](https://github.com/supratiktechandanalytics/Financial_-Analysis) 
+
 [Hospitality Sales Analysis](https://github.com/supratiktechandanalytics/Hospitality-Analytical-Dashboard)
 
 [Superstore Sales Report Dashboard](https://github.com/supratiktechandanalytics/Superstor_salesreport_dashboard)
