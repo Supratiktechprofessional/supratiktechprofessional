@@ -7,7 +7,7 @@ PROJECTS<br/>
 
 **Data Analytics Projects**
 
-[Financial Analysis](https://github.com/supratiktechandanalytics/Financial_-Analysis) 
+[Financial Analysis](https://github.com/supratiktechandanalytics/Analyzing-financial-dataset-) 
 
 [Hospitality Sales Analysis](https://github.com/supratiktechandanalytics/Hospitality-Analytical-Dashboard)
 
