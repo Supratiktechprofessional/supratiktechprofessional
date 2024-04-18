@@ -7,6 +7,8 @@ PROJECTS<br/>
 
 **Data Analytics Projects**
 
+[Pizza Sales Dashboard](https://github.com/supratiktechandanalytics/Pizza-Sales-Dashboard) 
+
 [Financial Analysis](https://github.com/supratiktechandanalytics/Analyzing-financial-dataset-) 
 
 [Hospitality Sales Analysis](https://github.com/supratiktechandanalytics/Hospitality-Analytical-Dashboard)
