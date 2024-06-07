@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
 
-- 🔭 I develop and launch data driven product solutions.  
-- 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
+Hi there, welcome to my Github Profile 👋
+
+- I’m currently looking for full-time roles and am flexible in every work model(remote/hybrid/onsite)
+- I am skilled in Data Analytics and MIS Analytics.
+- My core skillsets are: Power BI, MySQL and Excel.
 
 PROJECTS<br/>
 
