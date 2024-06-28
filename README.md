@@ -32,8 +32,6 @@ PROJECTS<br/>
 
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
-[Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
-
 **Software Engineering Projects**</br>
 
 [Room Booking System](https://github.com/supratiktechandanalytics/Roombookingsystem) 
