@@ -24,6 +24,8 @@ PROJECTS<br/>
 
 **Data Engineering Projects**
 
+[Music Platform Data Pipeline](https://github.com/supratiktechandanalytics/Spotify_Data_Pipeline)
+
 [Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
 
 [Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog)
