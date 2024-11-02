@@ -2,8 +2,8 @@
 
 Hi there, welcome to my Github Profile 👋
 
-- I’m currently looking for full-time roles and am flexible in every work model(remote/hybrid/onsite)
-- I am skilled in Data Analytics and MIS Analytics.
+- I’m currently looking for full-time roles in Analytics orFrontend engineering roles(onsite)
+- I am skilled in MIS Analytics, Data Analytics and Frontend Engineering.
 - My core skillsets are: Power BI, MySQL and Excel.
 
 PROJECTS<br/>
