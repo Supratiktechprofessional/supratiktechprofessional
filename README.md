@@ -8,7 +8,7 @@ Hi there, welcome to my Github Profile 👋
 
 PROJECTS<br/>
 
-**Data Analytics Projects**
+**MIS and Data Analytics Projects**
 
 [HR Analytics Dashboard](https://github.com/supratiktechandanalytics/HR-Analytics-Dashboard) 
 
