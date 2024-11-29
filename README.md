@@ -2,9 +2,11 @@
 
 Hi there, welcome to my Github Profile 👋
 
-- I’m currently looking for full-time roles in Analytics orFrontend engineering roles(onsite)
-- I am skilled in MIS Analytics, Data Analytics and Frontend Engineering.
-- My core skillsets are: Power BI, MySQL and Excel.
+My expertize are in:
+- Software Testing(Automation and Manual)
+- Data Analytics
+- Data Engineering
+- Software Engineering
 
 PROJECTS<br/>
 
