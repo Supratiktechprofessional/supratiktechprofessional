@@ -2,13 +2,34 @@
 
 Hi there, welcome to my Github Profile 👋
 
-My expertize are in:
-- Software Testing(Automation and Manual)
-- Data Analytics
-- Data Engineering
-- Software Engineering
+My expertize lies in frontend development, backend development and fullstack engineering. My core skills are: 
+- JavaScript
+- HTML
+- Bootstrap
+- React.js
+- Python
+- Django
+- Flask
+- MySQL
+- AWS
+
+I am currently based out of New Delhi and am seeking for my first job as junior web developer.
 
 PROJECTS<br/>
+
+**Software Engineering Projects**</br>
+
+[Room Booking System](https://github.com/supratiktechandanalytics/Roombookingsystem) 
+
+[Ecommerce Terminal Application](https://github.com/supratiktechandanalytics/ShopingCart) 
+
+[Random Quote Generator](https://supratiktechandanalytics.github.io/Random_quote_machine/)
+
+[Sorting Visualizer](https://supratiktechandanalytics.github.io/sortvisual.io/)
+
+[Path finder](https://supratiktechandanalytics.github.io/pathfinding.io/)
+
+[AI Chatbot](https://github.com/supratiksarkaremp22/ChatbotFullStack)
 
 **MIS and Data Analytics Projects**
 
@@ -35,20 +56,6 @@ PROJECTS<br/>
 [Kafka Stock Market](https://github.com/supratiksarkaremp22/Kafka_stock_data_engineering)
 
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
-
-**Software Engineering Projects**</br>
-
-[Room Booking System](https://github.com/supratiktechandanalytics/Roombookingsystem) 
-
-[Ecommerce Terminal Application](https://github.com/supratiktechandanalytics/ShopingCart) 
-
-[Random Quote Generator](https://supratiktechandanalytics.github.io/Random_quote_machine/)
-
-[Sorting Visualizer](https://supratiktechandanalytics.github.io/sortvisual.io/)
-
-[Path finder](https://supratiktechandanalytics.github.io/pathfinding.io/)
-
-[AI Chatbot](https://github.com/supratiksarkaremp22/ChatbotFullStack)
 
 <p align="left">
 </p>
