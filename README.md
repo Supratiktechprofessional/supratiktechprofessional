@@ -1,5 +1,4 @@
-**<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-**
+**<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>**
 Hi there, welcome to my Github Profile 👋
 
 I am a Data Engineer. My core skillsets are:
