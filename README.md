@@ -7,6 +7,8 @@ I am a Data Engineer. My core skillsets are:
 - PySpark
 - MySQL
 - Hadoop
+- Pytorch
+- Tensorflow
 - AWS
 - Django
 - Flask
