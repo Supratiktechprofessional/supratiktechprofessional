@@ -1,21 +1,33 @@
-<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-
+**<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
+**
 Hi there, welcome to my Github Profile 👋
 
-My expertize lies in frontend development, backend development and fullstack engineering. My core skills are: 
-- JavaScript
-- HTML
-- Bootstrap
-- React.js
+I am a Data Engineer. My core skillsets are:
 - Python
+- PySpark
+- MySQL
+- Hadoop
+- AWS
 - Django
 - Flask
-- MySQL
-- AWS
-
-I am currently based out of New Delhi and am seeking for my first job as junior web developer.
+- JavaScript
+- React.js
+  
+I am currently based out of New Delhi and am seeking for my first job as junior data engineer.
 
 PROJECTS<br/>
+
+**Data Engineering Projects**
+
+[Music Platform Data Pipeline](https://github.com/supratiktechandanalytics/Spotify_Data_Pipeline)
+
+[Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
+
+[Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog)
+
+[Kafka Stock Market](https://github.com/supratiksarkaremp22/Kafka_stock_data_engineering)
+
+[Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
 **Software Engineering Projects**</br>
 
