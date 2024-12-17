@@ -1,7 +1,7 @@
 **<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>**
 Hi there, welcome to my Github Profile 👋
 
-I am a Data Engineer. My core skillsets are:
+I am a Software Developer. My core skillsets are:
 - Python
 - PySpark
 - MySQL
@@ -11,6 +11,8 @@ I am a Data Engineer. My core skillsets are:
 - AWS
 - Django
 - Flask
+- Java
+- Spring Boot
 - JavaScript
 - React.js
   
