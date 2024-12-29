@@ -10,9 +10,9 @@ I am a Junior Data Engineer. My core skillsets are:
 - Django
 - Flask
 - Java
-- Spring Boot
-- JavaScript
-- React.js
+- Airflow
+- Mage
+- Dbt
   
 I am currently based out of New Delhi and am seeking for my first job as junior data engineer.
 
