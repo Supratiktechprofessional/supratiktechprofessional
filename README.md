@@ -1,34 +1,19 @@
 **<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>**
 Hi there, welcome to my Github Profile 👋
 
-I am a Junior Data Engineer. My core skillsets are:
-- Python
-- PySpark
-- MySQL
-- Hadoop
+I am a Fullstack Developer. I specialize in developing and deploying scalable AI powered webapps. My core skillsets are:
+- JavaScript
+- React.Js
+- Express.js
+- Node.js
 - AWS
-- Django
-- Flask
-- Java
-- Airflow
-- Mage
-- Dbt
-  
-I am currently based out of New Delhi and am seeking for my first job as junior data engineer.
+- Kubernetes
+- Docker
+- Langchain
+- Autogen  
+I am currently based out of New Delhi and am seeking for my first job as junior Fullstack developer.
 
 PROJECTS<br/>
-
-**Data Engineering Projects**
-
-[Music Platform Data Pipeline](https://github.com/supratiktechandanalytics/Spotify_Data_Pipeline)
-
-[Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
-
-[Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog)
-
-[Kafka Stock Market](https://github.com/supratiksarkaremp22/Kafka_stock_data_engineering)
-
-[Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
 **Software Engineering Projects**</br>
 
@@ -43,6 +28,18 @@ PROJECTS<br/>
 [Path finder](https://supratiktechandanalytics.github.io/pathfinding.io/)
 
 [AI Chatbot](https://github.com/supratiksarkaremp22/ChatbotFullStack)
+
+**Data Engineering Projects**
+
+[Music Platform Data Pipeline](https://github.com/supratiktechandanalytics/Spotify_Data_Pipeline)
+
+[Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
+
+[Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog)
+
+[Kafka Stock Market](https://github.com/supratiksarkaremp22/Kafka_stock_data_engineering)
+
+[Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
 **MIS and Data Analytics Projects**
 
