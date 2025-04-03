@@ -10,7 +10,7 @@ I am a Fullstack Developer. I specialize in developing and deploying scalable AI
 - Kubernetes
 - Docker
 - Langchain
-- Autogen  
+- Autogen
 I am currently based out of New Delhi and am seeking for my first job as junior Fullstack developer.
 
 PROJECTS<br/>
