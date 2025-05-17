@@ -1,18 +1,18 @@
 **<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>**
 Hi there, welcome to my Github Profile 👋
 
-I am a Fullstack Developer. I specialize in developing and deploying scalable AI powered webapps. My core skillsets are:
+I am a Junior Java Developer. My expertize lies in 
+- Spring Boot
+- Microservices
+- Rest Api
+- Collection
+- Multithreading
+- Core Java
 - JavaScript
-- React.Js
-- Express.js
-- Node.js
-- AWS
-- Kubernetes
-- Docker
-- Langchain
-- Autogen
+- React.js
+- Angular.js
 
-I am currently based out of New Delhi and am seeking for my first job as junior Fullstack developer.
+I am currently based out of New Delhi and am seeking for my first job.
 
 PROJECTS<br/>
 
