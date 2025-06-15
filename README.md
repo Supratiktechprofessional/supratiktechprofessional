@@ -1,16 +1,7 @@
 **<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>**
 Hi there, welcome to my Github Profile 👋
 
-I am a Junior Java Developer. My expertize lies in 
-- Spring Boot
-- Microservices
-- Rest Api
-- Collection
-- Multithreading
-- Core Java
-- JavaScript
-- React.js
-- Angular.js
+I am a Python Engineer. My expertize lies in backend software engineering, data analytics, data engineering, agentic AI development and machine learning. 
 
 I am currently based out of New Delhi and am seeking for my first job.
 
