@@ -7,7 +7,7 @@ I am well versed with Server fundamentals, files logging, continuous monitoring,
 PROJECTS<br/>
 
 **Devops Portfolio**</br>
-
+[Python scripting](https://github.com/Supratiktechprofessional/Python-Practice)
 
 **Software Engineering Projects**</br>
 
