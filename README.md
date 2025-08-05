@@ -1,11 +1,13 @@
 **<h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>**
 Hi there, welcome to my Github Profile 👋
 
-I am a Python Engineer. My expertize lies in backend software engineering, data analytics, data engineering, agentic AI development and machine learning. 
-
-I am currently based out of New Delhi and am seeking for my first job.
+I am a Devops Engineer. I possess knowledge on SDLC, Git and CICD. 
+I am well versed with Server fundamentals, files logging, continuous monitoring, etc. 
 
 PROJECTS<br/>
+
+**Devops Portfolio**</br>
+
 
 **Software Engineering Projects**</br>
 
